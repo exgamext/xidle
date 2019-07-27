@@ -1,0 +1,33 @@
+/* XIdle The Money Game*/
+
+body{
+    background: #31293A;
+}
+
+#textbox{
+    border: 0px;
+    font: bold 30px 'roboto';
+    color: #4169E1;
+    text-align: center;
+    background: #2A2031;
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.5)
+}
+
+#textbox:hover{
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5)
+}
+
+#btn{
+    border: 0px;
+    background: #4169E1;
+    color: white;
+    font: bold 20px 'roboto';
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5)
+}
+
+#btn:hover{
+    box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.5)
+}
+#btn:active{
+    background: blueviolet;
+}
