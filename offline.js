@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1564280765,
+	"version": 1564312906,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -19,6 +19,10 @@
 		"salvar-sheet0.png",
 		"resetar-sheet0.png",
 		"configurações-sheet0.png",
+		"ntf_reset-sheet0.png",
+		"ntf_save-sheet0.png",
+		"ntf_load-sheet0.png",
+		"ntf_shop-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
