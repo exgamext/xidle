@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1564313273,
+	"version": 1564316437,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -23,6 +23,7 @@
 		"ntf_save-sheet0.png",
 		"ntf_load-sheet0.png",
 		"ntf_shop-sheet0.png",
+		"moneynote1k-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
